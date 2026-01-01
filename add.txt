@@ -1,0 +1,1 @@
+git add stages changes in your working directory, preparing them for the next commit.
