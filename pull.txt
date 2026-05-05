@@ -1,0 +1,6 @@
+pull before push, 
+because someone pushed changes to the server, 
+after your last pull, 
+so our local copy and the current server copy are not in sync. 
+Pulling will merge the remote copy with your local one, 
+which brings them back into sync and allows you to push.
