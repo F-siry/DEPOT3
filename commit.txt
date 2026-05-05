@@ -1,0 +1,1 @@
+The git commit -m command is used to create a commit with a message in Git. This command allows you to include a commit message directly from the command line without opening a text editor.
